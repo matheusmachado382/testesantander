@@ -5,3 +5,5 @@
 # Dez de Abril
 
 # Secundário
+
+* comando git push
