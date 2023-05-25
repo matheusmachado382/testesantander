@@ -7,3 +7,6 @@
 # Secundário
 
 * comando git push
+* comando git pull
+
+Matheus
